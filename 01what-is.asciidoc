@@ -19,7 +19,7 @@ Yet in many ways, both the purpose and construction of Ethereum are strikingly d
 
 ((("Ethereum (generally)","purpose of")))Ethereum's purpose is not primarily to be a digital currency payment network. ((("utility currency, ether as")))While the digital currency ether is both integral to and necessary for the operation of Ethereum, ether is intended as a _utility currency_ to pay for use of the Ethereum platform as the world computer.
 
-Unlike Bitcoin, which has a very limited scripting language, Ethereum is designed to be a general-purpose programmable blockchain that runs a _virtual machine_ capable of executing code of arbitrary and unbounded complexity. Where Bitcoin's Script language is, intentionally, constrained to simple true/false evaluation of spending conditions, Ethereum's language is _Turing complete_, meaning that Ethereum can straightforwardly function as a general-purpose computer.
+Unlike Bitcoin, which has a very limited scripting language, Ethereum is designed to be a general-purpose programmable blockchain that runs a _virtual machine_ capable of executing code of arbitrary and unbounded complexity. Whereas Bitcoin's Script language is, intentionally, constrained to simple true/false evaluation of spending conditions, Ethereum's language is _Turing complete_, meaning that Ethereum can straightforwardly function as a general-purpose computer.
 
 [[blockchain_components]]
 === Components of a Blockchain
